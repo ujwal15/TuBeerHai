@@ -1,14 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Tu Beer Hai
 
-You can use the [editor on GitHub](https://github.com/ujwal15/TuBeerHai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page is dedicated to the doer, the hustler in you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
